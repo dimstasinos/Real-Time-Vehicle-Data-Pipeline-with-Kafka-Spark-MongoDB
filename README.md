@@ -1,7 +1,5 @@
 # Real-Time Vehicle Data Pipeline with Kafka, Spark & MongoDB
 
-## Overview
-
 This project simulates a real-time data streaming and processing system for urban vehicle movement. Using **Kafka** as a message broker, **Apache Spark** for stream processing, and **MongoDB** for scalable storage, the system ingests, transforms, and stores vehicle telemetry data generated from the UXSIM traffic simulator.
 
 The project was developed as part of the Big Data Systems course
